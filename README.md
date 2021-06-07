@@ -8,8 +8,8 @@ I am still working on upgrading it Hardware and Software and adding new algorthi
 * *****************************************************************************************************  
 - The next upgrade                                                                                     
 * *****************************************************************************************************  
-* 1 * : Adding new featuers to the smart home.                                                        *
-* 2 * : Improving the useage of sensors. By building it from scratch with pure electronics skills.    * 
-* 3 * : Improving the algorithms in decision making (Smart).                                          *
-* 4 * : Improving the IoT application functionality. -- App built with "Mit App Inventor".            *
+* 1 : Adding new featuers to the smart home.                                                        
+* 2 : Improving the useage of sensors. By building it from scratch with pure electronics skills.    
+* 3 : Improving the algorithms in decision making (Smart).                                          
+* 4 : Improving the IoT application functionality. -- App built with "Mit App Inventor".            
 * *****************************************************************************************************  
