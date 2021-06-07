@@ -4,8 +4,9 @@ This is IoT Smart home based ATmega328 project. The project perform many functio
 I made this project to start my career in Inernet of Things design.
 This system can do many things (multitask) at same time in effiecent way. 
 I am still working on upgrading it Hardware and Software and adding new algorthims to get the smart home smarter.
-------------------------------------------------------------------------------------------------------*
-The next upgrade                                                                                      *
+
+* *****************************************************************************************************  
+*The next upgrade                                                                                      *
 * *****************************************************************************************************  
 * 1 * : Adding new featuers to the smart home.                                                        *
 * 2 * : Improving the useage of sensors. By building it from scratch with pure electronics skills.    * 
